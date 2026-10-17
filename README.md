@@ -1,7 +1,7 @@
-<img src="voicechameleon.png" align="right" width="120" style="margin-right: 300 px;" />
+
 
 # Enginyera Filològica | voiceChameleon 🦎
-
+<img src="voicechameleon.png" align="right" width="120" style="margin-right: 500 px;" />
 Benvinguts al meu repositori! Estic en procés de ser filòloga catalana i programadora autodidacta. Aquest és un espai per connectar dos mons que semblen oposats, mes estan agafats de la mà: filologia (sintaxi i literatura) on per a humans és "codi" el que per a ordinadors és "sintaxi". Un pont natural dins de les **Humanitats Digitals**.
 
 
